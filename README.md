@@ -17,8 +17,8 @@ I'm currently focused on learning and building real-world projects to strengthen
 
 ### 💻 Tech Stack
 
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)](https://www.python.org)  
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)  
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)](https://www.python.org)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com)
 
 ---
 
