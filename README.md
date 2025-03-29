@@ -2,7 +2,7 @@
 
 
 
-![MatheusFXY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFXY&show_icons=true&theme=gruvbox)
+![MatheusFXY's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFXY&show_icons=true&theme=tokyonight)
 <!--
 **MatheusFXY/MatheusFXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
